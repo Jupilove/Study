@@ -9,3 +9,5 @@ Artifacts
 Cache
 - Caches are not to be used to store build result
 - Cashe should only be used as a 'temporary storage for project dependencies'
+
+참조 : https://docs.gitlab.com/ee/ci/caching/#cache-vs-artifacts
